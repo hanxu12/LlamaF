@@ -4,6 +4,7 @@ An FPGA accelerator for Llama2-architecture LLM inference on embedded FPGAs.
 
 This is the code for the paper **LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs**
 (Han Xu, Yutong Li, Shihao Ji; IEEE WF-IoT 2024; [DOI](https://doi.org/10.1109/WF-IoT62078.2024.10811385) · [arXiv:2409.11424](https://arxiv.org/abs/2409.11424)).
+If you use this code, please [cite our paper](#citation).
 
 ## Design
 
@@ -178,15 +179,6 @@ If you use LlamaF in your research, please cite:
 ```
 
 Preprint: [arXiv:2409.11424](https://arxiv.org/abs/2409.11424)
-
-```bibtex
-@article{xu2024llamaf_arxiv,
-  title   = {LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs},
-  author  = {Xu, Han and Li, Yutong and Ji, Shihao},
-  journal = {arXiv preprint arXiv:2409.11424},
-  year    = {2024}
-}
-```
 
 ## Acknowledgements
 
