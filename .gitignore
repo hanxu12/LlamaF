@@ -1,0 +1,18 @@
+# model files (download / generate with scripts/export_w8a8_gs256.sh)
+models/
+*.bin
+!tokenizer/tok_tl-chat.bin
+
+# build output
+build/
+_x/
+.Xil/
+.ipcache/
+package/
+*.xo
+*.xclbin
+*.log
+*.jou
+*_summary
+app.exe
+__pycache__/

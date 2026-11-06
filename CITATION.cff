@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use LlamaF in your research, please cite the paper below."
+title: "LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Han
+  - family-names: Li
+    given-names: Yutong
+  - family-names: Ji
+    given-names: Shihao
+license: MIT
+repository-code: "https://github.com/hanxu12/LlamaF"
+keywords:
+  - FPGA
+  - LLM
+  - Llama2
+  - TinyLlama
+  - quantization
+  - Vitis HLS
+  - ZCU102
+preferred-citation:
+  type: conference-paper
+  title: "LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs"
+  authors:
+    - family-names: Xu
+      given-names: Han
+    - family-names: Li
+      given-names: Yutong
+    - family-names: Ji
+      given-names: Shihao
+  collection-title: "2024 IEEE 10th World Forum on Internet of Things (WF-IoT)"
+  publisher:
+    name: IEEE
+  start: 1
+  end: 7
+  year: 2024
+  month: 11
+  doi: "10.1109/WF-IoT62078.2024.10811385"
+identifiers:
+  - type: doi
+    value: "10.1109/WF-IoT62078.2024.10811385"
+    description: "IEEE WF-IoT 2024 paper"
+  - type: url
+    value: "https://arxiv.org/abs/2409.11424"
+    description: "arXiv preprint"

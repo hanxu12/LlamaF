@@ -1,0 +1,6 @@
+# For export/export.py (quantize the HuggingFace model to Q8_0 gs256)
+numpy
+torch
+transformers
+huggingface_hub
+sentencepiece
